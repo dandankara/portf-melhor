@@ -1,23 +1,25 @@
 import React, { Component } from 'react';
 
-import { MainHeader, Menu, Actions, Button } from './styles'
+import { Container, Menu, Actions, Button } from './styles'
 
 class Header extends Component {
   render() {
     return (
 
-      <MainHeader >
+      <Container >
         <Menu>
+
           <Actions>
-            <label htmlFor="">Skills</label>
-            <label htmlFor="">Projetos</label>
-            <label htmlFor="">Sobre</label>
-            <label htmlFor="">Contato</label>
+            <a href="#">Skills</a>
+            <a href="#">Projetos</a>
+            <a href="#">Sobre</a>
+            <a href="#">Contatos</a>
+
+            <Button> <a href="#"> Download CV </a> </Button>
           </Actions>
-          
-          <Button>Download CV</Button>
+
         </Menu>
-      </MainHeader>
+      </Container>
     )
   }
 }
