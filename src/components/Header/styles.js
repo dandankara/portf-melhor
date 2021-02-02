@@ -14,7 +14,6 @@ const Menu = styled.div`
   height:60px;
   //top-right-bottom-left
   padding: 10px 20px 10px 718px;
-  
 `;
 
 const Actions = styled.div`
@@ -23,7 +22,9 @@ const Actions = styled.div`
     color:black;
     display:inline-flex;
     padding-left:20px;
-    font-size:20px;  
+    font-size:20px;
+    color:#FFFFFF;
+    line-height:26px; 
   }
 `;
 
