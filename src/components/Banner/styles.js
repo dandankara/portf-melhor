@@ -31,6 +31,12 @@ const Title = styled.div`
     color:#FFFFFF;
     padding:110px 47px 44px 40px;
   }
+
+  img{
+    size:40px;
+    width:60px;
+    height:60px;
+  }
 } 
 `;
 
