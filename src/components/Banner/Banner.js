@@ -9,7 +9,7 @@ class Banner extends Component {
       <MainBanner>
        
         <Title>
-          <span>Daniel Cunha Barbosa</span>
+          <span>Daniel Cunha Barbosa</span>   
           <span>FrontEnd Developer</span>
         </Title>
           
