@@ -1,6 +1,11 @@
 import React, { Component } from 'react';
 import { Container, ListaSkill, Title } from './styles';
 
+import { AiFillHtml5 } from 'react-icons/ai';
+import { FaCss3Alt } from 'react-icons/fa';
+import { IoLogoJavascript } from 'react-icons/io'
+import { FaReact } from 'react-icons/fa'
+
 class Skills extends Component {
   render() {
     return (
@@ -9,14 +14,10 @@ class Skills extends Component {
         <Title> Skills</Title>
 
         <ListaSkill>
-          <div>
-            <ul>
-              <li className="html">Html</li>
-              <li className="css">Css</li>
-              <li className="javascript">JavaScript</li>
-              <li className="react">React</li>
-            </ul>
-          </div>
+            <label> <AiFillHtml5 /> Html </label>
+            <label> <FaCss3Alt /> Css </label>
+            <label> <IoLogoJavascript /> JavaScript </label>
+            <label> <FaReact />  React </label>
         </ListaSkill >
 
       </Container >
