@@ -16,7 +16,7 @@ class Skills extends Component {
         <ListaSkill>
             <label> <AiFillHtml5 /> Html </label>
             <label> <FaCss3Alt /> Css </label>
-            <label> <IoLogoJavascript /> JavaScript </label>
+            <label> <IoLogoJavascript /> JavaScript </label> 
             <label> <FaReact />  React </label>
         </ListaSkill >
 

@@ -3,7 +3,7 @@ import styled from 'styled-components';
 const Container = styled.div`
   background-color: #F25A70;
   width:100%;
-  height:300px;
+  height:200px;
 `;
 
 const Title = styled.div`
@@ -14,15 +14,15 @@ const Title = styled.div`
 `;
 
 const ListaSkill = styled.div`
-  /* background-color:gray; */
-  font-size:35px;
   display:flex;
-  flex-wrap:wrap;
+  margin-top:20px;
   padding:20px;
+  justify-content:space-around;
   
   label{
-    flex:1 1 500px;
-    padding:20px;
+    font-size:40px;
+    color:#262626;
+    filter: drop-shadow(1px 1px 1px #FFFFFF);
   }
 `; 
 
