@@ -18,6 +18,12 @@ const ListProjects = styled.div`
   margin-top:20px;
   padding:20px;
   justify-content:space-around;
+  
+  a{
+    font-size:40px;
+    text-decoration:none;
+    color:#fffff0;
+  }
 `;
 
 export { MainContainer,ListProjects, Title };

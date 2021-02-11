@@ -12,6 +12,7 @@ class Header extends Component {
           <Actions>
             <a href="#">Skills</a>
             <a href="#">Projetos</a>
+            <a href="#">Sobre</a>
             <a href="#">Contatos</a>
           </Actions>
           
