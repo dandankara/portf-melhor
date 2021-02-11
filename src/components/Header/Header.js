@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import { Container, Menu, Actions, Button } from './styles'
+import { Container, Actions } from './styles'
 
 
 class Header extends Component {
