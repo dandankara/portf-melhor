@@ -12,7 +12,7 @@ class Sobre extends Component{
 
       <About>
         Hoje, Daniel Cunha estudante e FrontEnd Developer, formado em técnico em informática
-        atuou na área em 2018 pela Cooper Rubi e Rede Jovem Aprendiz, era responsável pela manunteção
+        atuou na área em 2018 pela Cooper Rubi juntamente com a Rede Jovem Aprendiz, era responsável pela manunteção
         de equipamentos em geral na empresa, cadastro de usuários na época da safra. Atualmente busca
         o desenvolvimento pessoal e na área de Ti, usufruindo de linguagens como JavaScript e bibliotecas 
         como React e React Native. Atualmente buscando uma oportunidade em desenvolvimento voltado para FrontEnd,
