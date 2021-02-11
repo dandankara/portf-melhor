@@ -10,10 +10,10 @@ class Header extends Component {
       <Container >
 
           <Actions>
-            <a href="#">Skills</a>
-            <a href="#">Projetos</a>
-            <a href="#">Sobre</a>
-            <a href="#">Contatos</a>
+            <a href="#ListaSkill">Skills</a>
+            <a href="#Projetos">Projetos</a>
+            <a href="#Sobre">Sobre</a>
+            <a href="#Contatos">Contatos</a>
           </Actions>
           
       </Container>

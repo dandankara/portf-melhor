@@ -17,7 +17,7 @@ const ListProjects = styled.div`
   display:flex;
   margin-top:20px;
   padding:20px;
-  justify-content:space-around;
+  justify-content:space-between;
   
   a{
     font-size:40px;

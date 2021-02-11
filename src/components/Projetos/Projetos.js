@@ -11,7 +11,7 @@ class Projeto extends Component{
 
       <MainContainer>
 
-        <Title> <label>Projetos</label></Title>
+        <Title id="Projetos"> <label>Projetos</label></Title>
 
         <ListProjects>
           <a href="https://github.com/dandankara/Calculadora"> <AiOutlineCalculator />Calculadora 1</a>

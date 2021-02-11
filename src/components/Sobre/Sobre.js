@@ -8,7 +8,7 @@ class Sobre extends Component{
     return(
       <Container>
 
-      <Title> <label>Sobre</label></Title>
+      <Title id="Sobre"> <label>Sobre</label></Title>
 
       <About>
         Hoje, Daniel Cunha estudante e FrontEnd Developer, formado em técnico em informática
