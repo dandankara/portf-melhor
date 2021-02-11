@@ -6,7 +6,12 @@ const Main = styled.div`
   justify-content:center;
   justify-content:space-around;
   height:60px;
-
+  
+  label{
+    color:white;
+    padding:15px;
+    font-size:25px;
+  }
   a{
     color:white;
     text-decoration:none;

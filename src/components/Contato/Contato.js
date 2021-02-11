@@ -11,7 +11,7 @@ class Contato extends Component{
 
       <Main id="Contatos">
 
-        <a> <SiGmail /> Gmail - cunhacb22@gmail.com </a>
+        <label> <SiGmail /> Gmail - cunhacb22@gmail.com </label>
         <a href="https://www.linkedin.com/in/daniel-cunha001/"> <FaLinkedinIn /> Linkedin </a>
 
       </Main>
