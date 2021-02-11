@@ -8,18 +8,13 @@ class Header extends Component {
     return (
 
       <Container >
-        <Menu>
 
           <Actions>
             <a href="#">Skills</a>
             <a href="#">Projetos</a>
-            <a href="#">Sobre</a>
             <a href="#">Contatos</a>
-
-            <Button> <a href="#"> Download CV </a> </Button>
           </Actions>
-
-        </Menu>
+          
       </Container>
     )
   }
