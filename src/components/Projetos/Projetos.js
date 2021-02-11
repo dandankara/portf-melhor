@@ -14,7 +14,7 @@ class Projeto extends Component{
         <Title id="Projetos"> <label>Projetos</label></Title>
 
         <ListProjects>
-          <a href="https://github.com/dandankara/Calculadora"> <AiOutlineCalculator />Calculadora 1</a>
+          <a href="https://github.com/dandankara/Calculadora"> <AiOutlineCalculator />Calculadora </a>
           <a href="https://github.com/dandankara/insta"><SiInstagram/> Instagram clone</a>
           <a href="https://github.com/dandankara/portf-melhor"> <BiUserCircle />Portifólio </a>
         </ListProjects>
