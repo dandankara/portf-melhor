@@ -1,44 +1,42 @@
 import styled from 'styled-components';
 
 const MainBanner = styled.div`
-  max-width:100%;
-  height:300px;
   background-color:#333333;
-  //top-right-bottom-left
-  padding:116px 0px 0px 91px;
   display:flex;
-  flex-direction:row;
+  flex-direction:column;
 `;
 
 const Title = styled.div`
   background-color:#262626;
-  width: 627px;
-  height:184px;
-  filter: drop-shadow(5px 5px 0px #262626);
-  display:flex;
-  flex-wrap:wrap;
-  justify-content:center;
   border-radius:10px;
-
-  span{
-    font-size:40px;
-    color: #F25A70;
-
-    &:last-child{
-    font-size:30px;
-    color:#FFFFFF;
+  color: #F25A70;
+  width:50%;
+  display:flex;
+  flex-direction:column;
+  align-self:center;
+  padding:1rem;
+  margin-bottom:1rem;
+  text-align:justify;
+  h2{
+    margin-bottom:10px;
   }
-} 
+  p{
+    color:#FFFFFF;
+    font-size:1.1rem;
+  
+  }
 `;
 
 const IconGit = styled.img.attrs({
-  src:'https://avatars.githubusercontent.com/u/65553049?s=460&u=7616301b1e4aad0c062411c373c9c42c7f2ec8ef&v=4',
+  src: 'https://avatars.githubusercontent.com/u/65553049?s=460&u=7616301b1e4aad0c062411c373c9c42c7f2ec8ef&v=4',
 })`
-  width: 250px;
-  height:250px;
-  border-radius:50%;
-  margin-left: 230px;
-  margin-top:-15px;
+  width: 200px;
+  height:200px;
+  border-radius: 100px;
+  border-top-right-radius:30px;
+  border-bottom-left-radius:30px;
+  padding:1rem;
+  align-self:center;
 `;
 
 

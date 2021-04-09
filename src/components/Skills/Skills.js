@@ -11,7 +11,7 @@ class Skills extends Component {
     return (
       <Container>
 
-        <Title  id="ListaSkill" > Skills</Title>
+        <Title> Skills</Title>
 
         <ListaSkill>
             <label> <AiFillHtml5 /> Html </label>

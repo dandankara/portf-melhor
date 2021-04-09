@@ -11,12 +11,15 @@ class Projeto extends Component{
 
       <MainContainer>
 
-        <Title id="Projetos"> <label>Projetos</label></Title>
+        <Title>Projetos</Title>
 
         <ListProjects>
-          <a href="https://github.com/dandankara/Calculadora"> <AiOutlineCalculator />Calculadora </a>
-          <a href="https://github.com/dandankara/insta"><SiInstagram/> Instagram clone</a>
-          <a href="https://github.com/dandankara/portf-melhor"> <BiUserCircle />Portifólio </a>
+          <a href="https://github.com/dandankara/Calculadora">Calculadora </a>
+          <a href="https://github.com/dandankara/insta"> Instagram clone</a>
+          <a href="https://github.com/dandankara/portf-melhor">Portifólio </a>
+          <a href="https://github.com/dandankara/weather-location">Weather Location </a>
+          <a href="https://github.com/dandankara/moveit-next">Moveit-next </a>
+          <a href="https://github.com/dandankara/poke-list">Poke-list </a>
         </ListProjects>
 
       </MainContainer>

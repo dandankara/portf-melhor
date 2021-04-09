@@ -2,10 +2,9 @@ import styled from 'styled-components';
 
 const Container = styled.header`
   background-color: #7C5E99;
-  width: 100%;
-  height:80px;
   display:flex;
   justify-content:center;
+  padding-bottom:16px;
 `;
 
 const Actions = styled.a`
