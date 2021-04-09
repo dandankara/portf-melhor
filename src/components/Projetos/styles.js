@@ -4,6 +4,8 @@ const MainContainer = styled.div`
   background-color:#000000;
   width:100%;
   height:200px;
+  display:flex;
+  flex-direction:row  ;
 `;
 
 const Title = styled.div`
@@ -14,10 +16,8 @@ const Title = styled.div`
 `;
 
 const ListProjects = styled.div`
-  display:flex;
-  margin-top:20px;
-  padding:20px;
   justify-content:space-between;
+  flex-wrap:wrap;
   
   a{
     font-size:40px;
