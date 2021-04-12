@@ -1,9 +1,9 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 import { ListProjects, MainContainer, Title } from './styles';
 
-class Projeto extends Component{
+class Projeto extends Component {
   render() {
-    return(
+    return (
 
       <MainContainer>
 

@@ -5,7 +5,6 @@ import Skills from '../src/components/Skills/Skills';
 import Projetos from '../src/components/Projetos/Projetos';
 import Contato from './components/Contato/Contato';
 
-
 function App() {
   return (
     <>
